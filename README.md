@@ -23,7 +23,7 @@ I am a Data Analyst passionate about transforming raw data into meaningful insig
 - Used SQL queries to explore data and generate business insights.
 - Applied filtering, aggregation, and analysis techniques.
 
-🔗 Project: Add your SQL repository link
+🔗 Project:https://github.com/Esther41600/SQL-Data-Analysis-Project/blob/main/My_sales_analysis.sql
 
 ## 📈 Currently Learning
 
