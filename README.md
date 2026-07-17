@@ -17,7 +17,7 @@ I am a Data Analyst passionate about transforming raw data into meaningful insig
 - Built an interactive dashboard to analyze sales performance.
 - Created visual reports and KPIs to identify business trends.
 
-🔗 Project: Add your Power BI repository link
+🔗 Project: https://github.com/Esther41600/Northwind-Sales-Analysis/blob/main/Power%20BI%20Dashboard/MY_FIRST_PORTFOLIO.pbix
 
 ### SQL Data Analysis Project
 - Used SQL queries to explore data and generate business insights.
