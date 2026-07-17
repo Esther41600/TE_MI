@@ -33,5 +33,5 @@ I am a Data Analyst passionate about transforming raw data into meaningful insig
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn link
-- Email: Add your professional email
+- LinkedIn: https://www.linkedin.com/in/adepetu-esther-591249280
+- Email: adepetuesther41@gmail.com
